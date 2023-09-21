@@ -2,8 +2,6 @@ export default {
   name: 'post',
   type: 'document',
   title: 'Post',
-  //   doc: 'Post',
-  // export const schemaTypes = [blog]
   fields: [
     {
       name: 'title',
