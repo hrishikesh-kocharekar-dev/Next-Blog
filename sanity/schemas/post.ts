@@ -23,7 +23,7 @@ export default {
       }
     },
     {
-      // name: 'string'
+      
       name: 'content',
       // type: 'string',
       type: 'array',
@@ -31,7 +31,7 @@ export default {
       of: [
         {
           type: 'block',
-          //   title?: 'slug' | 'content',
+       
         },
         {
           type: 'image',
@@ -39,7 +39,6 @@ export default {
             {
               type: 'text',
               name: 'alt',
-              // title?: 'string',
               title: 'Alternative Text',
             },
           ],
