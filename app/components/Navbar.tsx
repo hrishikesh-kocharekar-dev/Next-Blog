@@ -12,7 +12,7 @@ export default function Navbar() {
               Next<span className="text-emerald-600">Blog</span>
             </h1>
           </Link>
-          {/* <ThemeProvider name=" */}
+         
           <ThemeButton />
         </div>
       </div>
