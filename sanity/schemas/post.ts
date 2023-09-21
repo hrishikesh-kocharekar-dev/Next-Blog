@@ -25,7 +25,7 @@ export default {
     {
       
       name: 'content',
-      // type: 'string',
+      
       type: 'array',
       title: 'Content',
       of: [
