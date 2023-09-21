@@ -14,9 +14,8 @@ export default {
       title: 'Overview',
     },
     {
-      // name: 'description',
+     
       name: 'slug',
-      // type: 'string',
       type: 'slug',
       title: 'slug',
       options: {
